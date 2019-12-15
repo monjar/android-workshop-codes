@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android workshop TODO list</string>
+    <string name="text_view_content"> 0 </string>
+    <string name="add_button_text"> add </string>
+
+    <string name="task_placeholder">Task Here&#8230;</string>
+</resources>
